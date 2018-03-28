@@ -1,0 +1,2 @@
+# LingProg
+Exercicios de Python.
